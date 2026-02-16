@@ -67,13 +67,19 @@ jupyter notebook
 
 4. 04_functions.ipynb
 
-5. 05_intro_to_pandas.ipynb
+5. 05_intro_to_numpy.ipynb
 
-6. 06_pm_kpis_funnels.ipynb
+6. 06_intro_to_pandas.ipynb
 
-7. 07_segmentation_retention.ipynb
+7. 07_intro_to_matplotlib.ipynb
 
-8. 08_exports_csv_excel.ipynb
+8. 08_intro_to_seaborn.ipynb
+
+9. 09_pm_kpis_funnels.ipynb
+
+10. 10_segmentation_retention.ipynb
+
+11. 11_exports_csv_excel.ipynb
 
 ### Data (included)
 
